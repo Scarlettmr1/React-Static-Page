@@ -1,4 +1,0 @@
-- Moral: "Slow and steady wins the race"
-    - Lesson explanation about perseverance
-        - Blue background(#2196F3)
-            - Centered layout
